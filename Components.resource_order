@@ -1,0 +1,8 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"OEntity","order":2,"path":"objects/OEntity/OEntity.yy",},
+    {"name":"OMain","order":3,"path":"objects/OMain/OMain.yy",},
+    {"name":"__Components","order":1,"path":"scripts/__Components/__Components.yy",},
+  ],
+}

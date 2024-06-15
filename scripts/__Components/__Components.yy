@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"__Components",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__Components",
+  "parent":{
+    "name":"Components",
+    "path":"Components.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
